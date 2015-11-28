@@ -1,0 +1,5 @@
+spring:
+    application:
+        name: blegex
+server:
+    port: 80

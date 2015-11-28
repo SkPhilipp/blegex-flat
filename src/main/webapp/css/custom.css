@@ -1,0 +1,21 @@
+.medium-octicon {
+    font: normal normal 24px octicons;
+    line-height: 1;
+    display: inline-block;
+    text-decoration: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding: 0 5px;
+}
+
+[data-ng-click] {
+    cursor: pointer;
+}
+
+.page-header a {
+    color: black !important;
+}
+
+.row {
+    padding-bottom: 30px;
+}
